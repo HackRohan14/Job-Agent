@@ -1,0 +1,7 @@
+[project]
+name = "job-agent"
+language = "python"
+version = "3.11"  # specify Python version
+
+[build]
+start = "sh start.sh"
