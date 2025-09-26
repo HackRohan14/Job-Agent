@@ -1,0 +1,44 @@
+Raghuvansh Mani Tiwari
+Email: raghuvanshmanitiwari1@gmail.com
+Mobile: +91-8858054110
+LinkedIn: https://www.linkedin.com/in/raghuvansh-mani-tiwari-09b177233/
+
+Education
+Graduation (2021-2025)
+United College Of Engineering and Research Prayagraj CGPA :7.81
+(B.Tech in Computer Science and Engineering)
+Intermediate (2018-2020)
+Shri Shiv Pratap Inter College Amethi Percentage: 79
+High School (2016-2018)
+Shri Shiv Pratap Inter College Amethi Percentage: 83.6
+Projects
+1:BookHeaven
+Built a Book Store Website :
+    Developed RESTful APIs using Express.js for handling user authentication, book
+    management, and orders.
+    Implemented user functionalities for adding books to the cart, making purchases, and
+    reviewing order history.
+     Implemented JWT-based authentication for secure login and registration.
+    HealthHub
+
+2:Built a Hospital Management System:
+     Developed a full-stack hospital management system with modules for patients, doctors, and
+    administrators.
+     Integrated real-time chat between patients and doctors using Stream Chat API.
+     Implemented a doctor recommendation system based on patient symptoms and doctor
+    specialization.
+     Enabled role-based authentication and session management using JWT for secure access
+    control.
+
+Technical Skills
+Languages: C, C++ , Python(Basic)
+Developer Tools: VS Code, GitHub
+Technologies:HTML,CSS,JavaScript, React.js,Express.js
+Databases: MySQL, MongoDB
+
+Achievements & Hobbies
+ Qualified Gate Exam In Two Consecutive Year (2024 and 2025).
+ Secured Global Rank 2026 in LeetCode Weekly Contest 443 among 25,000+ participants.
+ Interested in problem Solving using C++ and exploring different computer technologies.
+ Enthusiast of mobile gaming (Battlegrounds).
+ I also enjoy capturing moments through photography in my free time.

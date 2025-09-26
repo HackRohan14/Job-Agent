@@ -1,0 +1,70 @@
+{
+    "name": "Raghuvansh Mani Tiwari",
+    "contact": {
+        "email": "raghuvanshmanitiwari1@gmail.com",
+        "mobile": "+91-8858054110",
+        "linkedin": "https://www.linkedin.com/in/raghuvansh-mani-tiwari-09b177233"
+    },
+    "education": [
+        {
+            "degree": "B.Tech in Computer Science and Engineering",
+            "institution": "United College Of Engineering and Research, Prayagraj",
+            "year": "2021-2025",
+            "cgpa": "7.81"
+        },
+        {
+            "degree": "Intermediate",
+            "institution": "Shri Shiv Pratap Inter College, Amethi",
+            "year": "2018-2020",
+            "percentage": "79%"
+        },
+        {
+            "degree": "High School",
+            "institution": "Shri Shiv Pratap Inter College, Amethi",
+            "year": "2016-2018",
+            "percentage": "83.6%"
+        }
+    ],
+    "projects": [
+        {
+            "name": "BookHeaven",
+            "description": "Developed a Book Store website with full-stack functionality. Implemented RESTful APIs using Express.js for user authentication, book management, and order processing. Secured platform with JWT-based authentication."
+        },
+        {
+            "name": "HealthHub",
+            "description": "Built a full-stack Hospital Management System with modules for patients, doctors, and administrators. Integrated real-time chat using Stream Chat API. Implemented doctor recommendation system and role-based access control using JWT."
+        }
+    ],
+    "technical_skills": {
+        "languages": [
+            "C",
+            "C++",
+            "Python (Basic)"
+        ],
+        "developer_tools": [
+            "VS Code",
+            "GitHub"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React.js",
+            "Express.js"
+        ],
+        "databases": [
+            "MySQL",
+            "MongoDB"
+        ]
+    },
+    "achievements": [
+        "Qualified GATE Exam in consecutive years 2024 and 2025",
+        "Secured Global Rank 2026 in LeetCode Weekly Contest 443 among 25,000 participants"
+    ],
+    "hobbies": [
+        "Problem solving using C",
+        "Exploring different computer technologies",
+        "Mobile gaming (Battlegrounds)",
+        "Photography"
+    ]
+}

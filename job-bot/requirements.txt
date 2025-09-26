@@ -1,0 +1,6 @@
+playwright
+schedule
+pymongo
+requests
+openai
+python-dotenv
